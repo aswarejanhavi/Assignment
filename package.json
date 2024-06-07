@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-crud-api-project",
+  "version": "1.0.0",
+  "description": "This is vanilla nodejs CRUD API project",
+  "main": "server.js",
+  "scripts": {
+   
+    "start": "node server.js",
+    "dev" : "nodemon server.js"
+  
+  },
+  "author": "Janhavi Asware",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.2"
+  }
+}
